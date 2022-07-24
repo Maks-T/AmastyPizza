@@ -4,6 +4,7 @@
 ## To run the application, you need to import the database from the ```dump.sql``` file
 ## Conection data: 
 
+`../AmastyPizza/db/configDB.php`
 ```
 $hostname = "127.0.0.1";
 $username = "root";
