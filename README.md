@@ -1,4 +1,4 @@
-# AmastyPizza
+# AmastyPizza - Test Task
 ## [Description Task](https://docs.google.com/document/d/1V8eVBJIRCk7I0V3DTw0GKZKgRUYmzQYaU2EPFUCaufg/edit)
 ## To run the application, you need to import the database from the ```dump.sql``` file
 ## Conection data: 
